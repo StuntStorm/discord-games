@@ -1,12 +1,12 @@
   # StuntStorm's Easy to use **Discord Games NPM**
 
 Play Games and Watch Youtube Along with your friends While you stream using this Npm Package!
+
 ![@stuntstormmath (1)](https://user-images.githubusercontent.com/56226566/123553535-5cb0f080-d799-11eb-8a58-5aa4bac4fb43.png)
 
 
 ## Installation ⚒️
 
-Must 
 ### ``` npm i @stuntstorm/discord-games --save```
 
 ## Usage
@@ -61,4 +61,7 @@ client.login("token");
 ![image](https://user-images.githubusercontent.com/56226566/123553737-ac43ec00-d79a-11eb-9acf-687164344e8e.png)
 
 ## Support 🐱‍💻
+
 Feel free to join the support server : https://discord.gg/u6XzUFkKTn
+
+### Created and Published by StuntStorm
