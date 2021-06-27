@@ -12,7 +12,9 @@ Play Games and Watch Youtube Along with your friends While you stream using this
 ## Usage
 
 ### Require with any Variable
+```
 const package = require("@stuntstorm/discord-games")
+```
 
 ### Games Together Commands 👾
 ```
