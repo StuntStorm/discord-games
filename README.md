@@ -59,8 +59,11 @@ client.login("token");
 
 #### Index.js Code : 
 ![image](https://user-images.githubusercontent.com/56226566/123553704-80286b00-d79a-11eb-8fe5-1a9beba65a76.png)
-#### Console Output : 
+#### Discord Output : 
 ![image](https://user-images.githubusercontent.com/56226566/123553737-ac43ec00-d79a-11eb-9acf-687164344e8e.png)
+#### Voicechat Output : 
+![image](https://user-images.githubusercontent.com/56226566/123567855-b8529c80-d7e0-11eb-8eff-ee403a58dbb8.png)
+
 
 ## Support 🐱‍💻
 
