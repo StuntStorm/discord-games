@@ -69,4 +69,8 @@ client.login("token");
 
 Feel free to join the support server : https://discord.gg/u6XzUFkKTn
 
+StuntStorm's Github : https://github.com/StuntStorm
+
+More NPM Packages : https://www.npmjs.com/~stuntstorm
+
 ### Created and Published by StuntStorm
