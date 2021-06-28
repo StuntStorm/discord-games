@@ -16,7 +16,7 @@ Play Games and Watch Youtube Along with your friends While you stream using this
 const package = require("@stuntstorm/discord-games")
 ```
 
-### Games Together Commands 👾
+### Games Together Commands 🐱‍🏍
 ```
 package.betrayal(message, client);
 package.fishington(message, client);
@@ -77,7 +77,7 @@ More NPM Packages : https://www.npmjs.com/~stuntstorm
 
 This package is protected under MIT license. 🔒
 
-## Bots using this Project
+## Bots using this Project 👾
 ### [StuntStorm Discord bot](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=268443702) by StuntStorm#7231
 
 ### Created and Published by StuntStorm
