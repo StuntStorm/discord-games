@@ -1,4 +1,5 @@
-﻿const discord = require("discord.js")
+//This project is edited in such a way to avoid plagiarism.. (aka those who are planning to "ctrl+c" and "ctrl+v" this repos wont work unless you find the removed commands)
+const discord = require("discord.js")
 const fetch = require("node-fetch")
 
 
