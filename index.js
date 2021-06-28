@@ -8,12 +8,12 @@ module.exports = {
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
 
-        fetch(`https://discord.com/api/v8/channels/${channel.id}/invites`, {
+        fetch(`https://discord.com/api/v8/channels/${channel.id}//invites`, {
             method: "POST",
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "773336526917861400 ",
+                target_application_id: " ",
                 target_type: 2,
                 temporary: false,
                 validate: null
@@ -49,7 +49,7 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "814288819477020702 ",
+                target_application_id: " ",
                 target_type: 2,
                 temporary: false,
                 validate: null
@@ -85,7 +85,7 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "755827207812677713 ",
+                target_application_id: " ",
                 target_type: 2,
                 temporary: false,
                 validate: null
@@ -121,7 +121,7 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "832012586023256104 ",
+                target_application_id: " ",
                 target_type: 2,
                 temporary: false,
                 validate: null
@@ -157,7 +157,7 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: "755600276941176913 ",
+                target_application_id: " ",
                 target_type: 2,
                 temporary: false,
                 validate: null
@@ -177,7 +177,7 @@ module.exports = {
                 .setThumbnail('https://images-ext-2.discordapp.net/external/q1lQh3ZRNwiJ_de2i1hNXaRC8-P007cwYmbreShJtFU/https/i.imgur.com/egnFTgK.png')
                 .setDescription(`[**CLICK ME TO WATCH YOUTUBE 💻**](https://discord.com/invite/${invite.code})`)
                 .setFooter("Powered by StuntStorm#7231")
-            message.channel.send(e)
+            message.channel.send(r)
         })
 
 
@@ -185,4 +185,11 @@ module.exports = {
     }
 
 }
+
+Application id: 
+Chess : 832012586023256104
+Pokernight : 755827207812677713
+Betrayal : 773336526917861400
+Fishington : 814288819477020702
+Youtube : 755600276941176913
 
