@@ -3,7 +3,7 @@ const fetch = require("node-fetch")
 
 
 module.exports = {
-    betrayal: (message, client) => {
+     (message, client) => {
 
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
@@ -13,8 +13,6 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: " ",
-                target_type: 2,
                 temporary: false,
                 validate: null
             }),
@@ -39,7 +37,7 @@ module.exports = {
 
 
     },
-    fishington: (message, client) => {
+     (message, client) => {
 
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
@@ -49,8 +47,6 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: " ",
-                target_type: 2,
                 temporary: false,
                 validate: null
             }),
@@ -75,7 +71,7 @@ module.exports = {
 
 
     },
-    pokernight: (message, client) => {
+     (message, client) => {
 
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
@@ -85,8 +81,6 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: " ",
-                target_type: 2,
                 temporary: false,
                 validate: null
             }),
@@ -111,7 +105,7 @@ module.exports = {
 
 
     },
-    chess: (message, client) => {
+     (message, client) => {
 
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
@@ -121,8 +115,6 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: " ",
-                target_type: 2,
                 temporary: false,
                 validate: null
             }),
@@ -147,7 +139,7 @@ module.exports = {
 
 
     },
-    youtube: (message, client) => {
+     (message, client) => {
 
         let channel = message.member.voice.channel;
         if (!channel) return message.channel.send("You have to be in VC!")
@@ -157,8 +149,6 @@ module.exports = {
             body: JSON.stringify({
                 max_age: 86400,
                 max_uses: 0,
-                target_application_id: " ",
-                target_type: 2,
                 temporary: false,
                 validate: null
             }),
