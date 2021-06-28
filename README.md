@@ -73,4 +73,11 @@ StuntStorm's Github : https://github.com/StuntStorm
 
 More NPM Packages : https://www.npmjs.com/~stuntstorm
 
+## NOTE 🗃️
+
+This package is protected under MIT license. 🔒
+
+## Bots using this Project
+[stunt](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=76825)
+
 ### Created and Published by StuntStorm
