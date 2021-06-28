@@ -78,6 +78,6 @@ More NPM Packages : https://www.npmjs.com/~stuntstorm
 This package is protected under MIT license. 🔒
 
 ## Bots using this Project
-[stunt](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=76825)
+#### ```[StuntStorm Discord bot](https://discord.com/oauth2/authorize?client_id=850011982777417759&scope=bot&permissions=76825) by StuntStorm#7231```
 
 ### Created and Published by StuntStorm
