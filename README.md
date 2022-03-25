@@ -9,6 +9,20 @@ Play Games and Watch Youtube Along with your friends While you stream using this
 
 ### ``` npm i @stuntstorm/discord-games --save```
 
+## Update
+```
+Added More Games and Fun:
+> Lettertile
+> Wordsnack
+> Doodlecrew
+> Awkword
+> Spellcast
+> Checkers
+> Puttparty
+> Sketchheads
+> Ocho
+```
+
 ## Usage
 
 ### Require with any Variable
